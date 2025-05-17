@@ -1,2 +1,2 @@
 # Microstructure-codebook-imaging
-Implementation code for 'Cross-Protocol Microstructure Imaging in Diffusion MRI: A Codebook-Driven Framework via Hybrid Mamba-CNN'
+Implementation code for 'DEMIC: Deep Learning Empowered Microstructure Codebook: New Paradigm for Multi-Parameter Tissue Characterization Estimation'
